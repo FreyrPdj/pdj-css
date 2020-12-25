@@ -1,5 +1,4 @@
 }
-/* Adding stuff from the json in case it didn't loaded */
 .icon-room {
     background: none;
     width: 75px !important;
