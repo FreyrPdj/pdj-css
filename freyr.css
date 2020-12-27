@@ -961,7 +961,7 @@ i.icon.icon-time {
     background-color: rgba(0, 0, 0, 0.7) !important;
     background-image: url(https://i.imgur.com/bN5LD7H.png) !important;
     border-radius: 5px !important;
-    border: 1px solid #a67f11 !important;
+    border: 1px solid #28c2ed !important;
     position: absolute;
     /*height: 435px !important;*/
     /*width: 300px !important;*/
@@ -985,7 +985,7 @@ i.icon.icon-time {
     font-family: 'fontawesome';
     content: '\f073 \20 EmotesList';
     font-size: 16px;
-    color: #a67f11;
+    color: #50ed28;
 }
 #rcs-style-anchor-1.toggled:before { content: '\f073 \20 EmotesList';}
 #rcs-style-anchor-1.toggled{height: 35px !important; width: 130px !important;
